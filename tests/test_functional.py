@@ -89,6 +89,7 @@ def test_annual_balance_calculation():
             date_due="2025-02-15",
             settlement_year=2025,
             settlement_month=5,
+            amount_pln=4500.0,
             type="renovation",
         )
     )
